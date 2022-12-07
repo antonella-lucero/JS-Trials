@@ -85,7 +85,7 @@ def truncate(string):
         
     return ''.join(result)
 
-#need to finish def has_balanced_parens
+#need to finish def has_balanced_parens``
 def has_balanced_parens(string):
     parens = 0 
     
